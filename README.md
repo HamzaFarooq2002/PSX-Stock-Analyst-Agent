@@ -15,6 +15,8 @@ pinned: false
 
 An AI assistant specialized in the **Pakistan Stock Exchange (PSX)**. Built using the Google Agent Development Kit (ADK), Gemini, and Streamlit. This tool can fetch live stock prices, analyze fundamentals, collect recent news, and perform side-by-side comparisons of multiple companies.
 
+URL: https://hamzafin-psx-stock-analyst-agent.hf.space
+
 ## Features
 - **Live Stock Quotes:** Current prices, day changes, and 52-week highs/lows.
 - **Fundamentals Analysis:** PE ratios, EPS, ROE, margins, and dividend yields.
