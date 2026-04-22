@@ -1,3 +1,16 @@
+---
+title: PSX Stock Analyst Agent
+emoji: 📈
+colorFrom: green
+colorTo: blue
+sdk: streamlit
+sdk_version: "1.56.0"
+python_version: "3.11"
+app_file: app.py
+pinned: false
+---
+
+
 # PSX Stock Analyst Agent
 
 An AI assistant specialized in the **Pakistan Stock Exchange (PSX)**. Built using the Google Agent Development Kit (ADK), Gemini, and Streamlit. This tool can fetch live stock prices, analyze fundamentals, collect recent news, and perform side-by-side comparisons of multiple companies.
